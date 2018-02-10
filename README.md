@@ -1,13 +1,15 @@
-﻿# kaggle discussions(forecast)
-翻译Kaggle时序比赛各得奖大佬们的经验分享帖
+﻿# kaggle discussions
+Kaggle比赛经验总结
 
 已完成的部分：
-## Recruit Restaurant Visitor Forecasting
+## 1、Recruit Restaurant Visitor Forecasting(381st/top 18%)
+### 22rd：[30CrMnSiA][1]
+原帖链接：[discussion][2], [kernel][3]
 
-###22rd：[30CrMnSiA][1]
+## 2、Corporación Favorita Grocery Sales Forecasting(31st/top 2%/silver)
 
 
+## 3、Porto Seguro’s Safe Driver Prediction(584th/top 12%)
 
 
-
-  [1]: https://www.kaggle.com/h4211819/%2030CrMnSiA
+## 4、Statoil/C-CORE Iceberg Classifier Challenge(223rd/top 7%/bronze)
