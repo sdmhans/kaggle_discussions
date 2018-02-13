@@ -4,14 +4,22 @@ Kaggle比赛经验总结
 已完成的部分：
 ## 1、Recruit Restaurant Visitor Forecasting(381st/top 18%)
 
-### 20th: 
+### 11th:
+- [Xiuqi][9], [discussion][10]
+- 验证集：2016.12.29开始的33天+2017.4.22结束的33天（新年和黄金周有相似之处，无eda）
+- 去除预测天前7天内的预订信息（防过拟合）
+- 移动加权平均（按每个店）
+- 距离上/下一个节假日的天数
+- 天气：下雨和平均气温
+- 模型融合：LGBM,XGB,RF和prophet(private:0.535)
+
+### 20th: (未完成)
 - [YuyaYamamoto][4], [discussion][5]
 
-### 22rd：
+### 22rd：(见Recruit Restaurant Visitor Forecasting/22rd 30CrMnSiA.md)
 - [30CrMnSiA][1], [discussion][2], [kernel][3]
 
-
-### 48th：
+### 48th：(见Recruit Restaurant Visitor Forecasting/48th Shize Su.md)
 - [Shize Su][6], [discussion][7], 含[Danijel Kivaranovic][8](5th)
 
 比赛小总结：
@@ -35,6 +43,9 @@ Kaggle比赛经验总结
   [6]: https://www.kaggle.com/sushize
   [7]: https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/discussion/49174
   [8]: https://www.kaggle.com/danijelk
+  [9]: https://www.kaggle.com/lixiuqi
+  [10]: https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/discussion/49177
+
 
 ## 2、Corporación Favorita Grocery Sales Forecasting(31st/top 2%/silver)
 

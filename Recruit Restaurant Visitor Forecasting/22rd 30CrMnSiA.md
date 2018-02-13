@@ -1,6 +1,7 @@
 ﻿# Recruit Restaurant Visitor Forecasting
 ### 22rd：[30CrMnSiA][1]
 原帖链接：[discussion][2], [kernel][3]
+
 holiday规则: private榜能够提升9个千分点
 - 将节假日视作周六
 - 如果节假日前一天为工作日，将该天视作周五

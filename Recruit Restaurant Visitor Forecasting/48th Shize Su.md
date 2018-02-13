@@ -7,7 +7,7 @@
   - xgb: public 0.470, private 0.516, nn: public 0.476, private 0.528, 0.7-0.3融合这两个模型:public 0.468, private 0.515
 
 - 验证集：
-  - 从17.3.12（周日）开始的最后39天（与Corporación的）
+  - 从17.3.12（周日）开始的最后39天（与Corporación的类似）
 
 - 特征(300+)：在surprise-me-2-neural-networks-keras的基础上做的
   - 同air_store_id同曜日的前14次游客数量(lagging visitors features)：该比赛中较深的lag效果好
