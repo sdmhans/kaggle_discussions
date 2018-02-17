@@ -1,7 +1,6 @@
 ﻿# kaggle discussions
-Kaggle比赛经验总结
+Kaggle比赛分享贴翻译
 
-已完成的部分：
 ## 1、[Recruit Restaurant Visitor Forecasting][1] (时间序列/381st/top 18%)
 - 11th(Xiuqi)
 - 20th(YuyaYamamoto) (未完成)
