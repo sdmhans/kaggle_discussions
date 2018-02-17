@@ -9,8 +9,9 @@ Kaggle比赛经验总结
 - 48th(Shize Su)
 
 ## 2、Corporación Favorita Grocery Sales Forecasting(31st/top 2%/silver)
+- 2nd(CPMP)(未完成)
 
 ## 3、Porto Seguro’s Safe Driver Prediction(584th/top 12%)
-- 8th(ironbar)
+- 8th(ironbar)(未完成)
 
 ## 4、Statoil/C-CORE Iceberg Classifier Challenge(223rd/top 7%/bronze)

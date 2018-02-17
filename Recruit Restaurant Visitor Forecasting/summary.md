@@ -8,13 +8,13 @@
 - 天气：下雨和平均气温
 - 模型融合：LGBM,XGB,RF和prophet(private:0.535)
 
-### 20th: (未完成)
+### 20th: (未完成)(见22rd 30CrMnSiA.md)
 - [YuyaYamamoto][4], [discussion][5]
 
-### 22rd：(见Recruit Restaurant Visitor Forecasting/22rd 30CrMnSiA.md)
+### 22rd：(见22rd 30CrMnSiA.md)
 - [30CrMnSiA][1], [discussion][2], [kernel][3]
 
-### 48th：(见Recruit Restaurant Visitor Forecasting/48th Shize Su.md)
+### 48th：(见48th Shize Su.md)
 - [Shize Su][6], [discussion][7], 含[Danijel Kivaranovic][8](5th)
 
 比赛小总结：
