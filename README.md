@@ -19,8 +19,8 @@ Kaggle比赛分享贴翻译
 
 ## 6、[Instacart Market Basket Analysis][6] (推荐系统/未参加)
 
-
-
+## 7、[Toxic Comment Classification Challenge][7] (NLP/53rd/top 2%/silver)
+- 1st(Chun Ming Lee)
 
 
 
