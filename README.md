@@ -30,3 +30,4 @@ Kaggle比赛分享贴翻译
   [4]: https://www.kaggle.com/c/statoil-iceberg-classifier-challenge
   [5]: https://www.kaggle.com/c/quora-question-pairs
   [6]: https://www.kaggle.com/c/instacart-market-basket-analysis
+  [7]: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
